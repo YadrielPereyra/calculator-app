@@ -1,0 +1,27 @@
+# Simple Calculator App
+
+A clean, browser-based calculator that performs basic arithmetic operations: addition, subtraction, multiplication, and division.
+
+## Features
+- Basic operations: `+`, `-`, `*`, `/`
+- Clear button (`C`) to reset the display
+- Responsive and mobile-friendly design
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+
+## Live Demo
+[View Calculator App](https://yadrielpereyra.github.io/calculator-app/)
+
+## How to Use
+1. Click on the numbers and operators to build your calculation.
+2. Press `=` to see the result.
+3. Press `C` to clear and start over.
+
+## Author
+[Yadriel Pereyra](https://github.com/YadrielPereyra)
+
+## License
+This project is open source under the MIT license.
